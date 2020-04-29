@@ -2,7 +2,7 @@ def game_hash
 {
   home: {
     team_name: "Brooklyn Nets",
-    team_color:["Black, White"],
+    colors:["Black, White"],
     players: {
       "Alan Anderson" => {
         number: 0,
