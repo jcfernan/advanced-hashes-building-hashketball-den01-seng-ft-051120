@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def game_hash
 {
@@ -6,7 +6,7 @@ def game_hash
     team_name: "Brooklyn Nets",
     colors:["Black, White"],
     players: {
-      "Alan Anderson" => {
+      player_name: "Alan Anderson",
         number: 0,
         shoe: 16,
         points: 22,
@@ -15,8 +15,8 @@ def game_hash
         steals: 3,
         blocks: 1,
         slam_dunks: 1,
-      },
-      "Reggie Evans" => {
+      }, {
+      player_name: "Reggie Evans",
         number: 30,
         shoe: 14,
         points: 12,
@@ -106,5 +106,3 @@ away: {
   }
 }
 end
-
-binding.pry
