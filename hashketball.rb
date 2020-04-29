@@ -1,4 +1,4 @@
-
+require 'pry'
 
 def game_hash
 {
@@ -106,3 +106,5 @@ away: {
   }
 }
 end
+
+binding.pry
