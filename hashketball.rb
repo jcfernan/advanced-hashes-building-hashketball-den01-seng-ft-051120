@@ -14,7 +14,7 @@ def game_hash
         assists: 12,
         steals: 3,
         blocks: 1,
-        slam_dunks: 1,
+        slam_dunks: 1
       }, {
       player_name: "Reggie Evans",
         number: 30,
@@ -34,7 +34,7 @@ def game_hash
         assists: 10,
         steals: 3,
         blocks: 1,
-        slam_dunks: 15,
+        slam_dunks: 15
     }, {
     player_name: "Mason Plumlee",
         number: 1,
@@ -44,7 +44,7 @@ def game_hash
         assists: 6,
         steals: 3,
         blocks: 8,
-        slam_dunks: 5,
+        slam_dunks: 5
     }, {
     player_name: "Jason Terry",
         number: 31,
@@ -54,7 +54,7 @@ def game_hash
         assists: 2,
         steals: 4,
         blocks: 11,
-        slam_dunks: 1,
+        slam_dunks: 1
     }
   }
 },
@@ -70,7 +70,7 @@ away: {
         assists: 1,
         steals: 2,
         blocks: 7,
-        slam_dunks: 2,
+        slam_dunks: 2
       }, {
       player_name: "Bismack Biyombo",
         number: 0,
@@ -80,7 +80,7 @@ away: {
         assists: 7,
         steals: 22,
         blocks: 15,
-        slam_dunks: 10,
+        slam_dunks: 10
       }, {
       player_name: "DeSagna Diop",
         number: 2,
@@ -90,7 +90,7 @@ away: {
         assists: 12,
         steals: 4,
         blocks: 5,
-        slam_dunks: 5,
+        slam_dunks: 5
       }, {
       player_name: "Ben Gordon",
         number: 8,
@@ -100,7 +100,7 @@ away: {
         assists: 2,
         steals: 1,
         blocks: 1,
-        slam_dunks: 0,
+        slam_dunks: 0
       }
     }
   }
